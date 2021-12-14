@@ -23,7 +23,7 @@
     
 ### Detailed
 
-     ```bash
+    ```bash
     apt-get update
     apt install git  -y
     apt install curl -y
