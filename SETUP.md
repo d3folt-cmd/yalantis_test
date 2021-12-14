@@ -1,7 +1,9 @@
-Firstly, in file create.py run function create() that runs several functions: create.db(), clear.db(), adddata(), displaydata().
+In file create.py run method create() that contains several methods:
+create.db() - method from create_database.py that creates tables empty 'driver' and 'vehicle'.
+clear.db() - method from create_database.py clears all data from tables so it is easier to create tables with new data again.
+adddata() - method from add_data.py that fills tables with data you write here.
+displaydata() - display tables in console.
 
-In file add_data.py you can fill your database with data you want.
+Run app.py to run the project.
 
-To launch the project you must run app.py.
-
-There are several tests in test.py.
+After running app.py you can run test.py where are two simple test methods - first add driver and second print his id.
