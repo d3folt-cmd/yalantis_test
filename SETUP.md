@@ -1,16 +1,25 @@
 ### How do I get set up a script? ###
 
-* Clone repository
+* Tested on Ubuntu.
+    ```
+    apt-get update
+    apt install git  -y
+    apt install curl -y
+    apt-get install -yq python3-pip
+    ```
 * Goto download folder
+    ```
+    git clone https://github.com/d3folt-cmd/yalantis_test.git
+    ```
 * Install virtual env:
     ```bash
-    pip install virtualenv
+    pip3 install virtualenv
     virtualenv venv
     source venv/bin/activate
     ```
 * Install dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
     ```
 * Run app.py script:  
     ```bash
