@@ -1,6 +1,6 @@
-### How do I get set up a script? ###
+### How do I get set up a script?(Tested on Ubuntu) ###
 
-* Tested on Ubuntu.
+* Update and install package
     ```
     apt-get update
     apt install git  -y
@@ -10,6 +10,7 @@
 * Goto download folder
     ```
     git clone https://github.com/d3folt-cmd/yalantis_test.git
+    cd yalantis_test
     ```
 * Install virtual env:
     ```bash
