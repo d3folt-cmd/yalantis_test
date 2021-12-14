@@ -20,6 +20,22 @@
     ```bash
     python3 app.py
     ```
+    
+### Detailed
+
+     ```bash
+    apt-get update
+    apt install git  -y
+    apt install curl -y
+    apt-get install -yq python3-pip
+    git clone https://github.com/d3folt-cmd/yalantis_test.git
+    pip3 install -r requirements.txt
+    pip3 install virtualenv
+    virtualenv venv
+    source venv/bin/activate
+    pip3 install -r requirements.txt
+    python3 app.py
+    ```
 
 ### Design description
 
