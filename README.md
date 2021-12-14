@@ -18,7 +18,7 @@
     ```
 * Run app.py script:  
     ```bash
-    python app.py
+    python3 app.py
     ```
 
 ### Design description
