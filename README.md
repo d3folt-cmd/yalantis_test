@@ -23,7 +23,6 @@
     
 ### Detailed
 
-    ```bash
     apt-get update
     apt install git  -y
     apt install curl -y
@@ -35,7 +34,7 @@
     source venv/bin/activate
     pip3 install -r requirements.txt
     python3 app.py
-    ```
+    
 
 ### Design description
 
