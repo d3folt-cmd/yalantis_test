@@ -18,6 +18,6 @@
     ```
 * Run app.py script:  
     ```bash
-    python api.py
+    python app.py
     ```
 
