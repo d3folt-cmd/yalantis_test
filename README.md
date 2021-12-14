@@ -1,9 +1,23 @@
-# Yalantis_test
-Test task for Yalantis school on Pyhton using Flask, SQLite
+### What is this repository for? ###
 
-### How to use
+* Test task for Yalantis school on Pyhton using Flask, SQLite
 
-1. Clone this project
-2. run ```pip install pipenv```
-3. run ```pipenv install```
-4. run ```python api.py```
+### How do I get set up a script? ###
+
+* Clone repository
+* Goto download folder
+* Install virtual env:
+    ```bash
+    pip install virtualenv
+    virtualenv venv
+    source venv/bin/activate
+    ```
+* Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+* Run app.py script:  
+    ```bash
+    python api.py
+    ```
+
