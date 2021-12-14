@@ -23,6 +23,8 @@
     
 ### Detailed
 
+Tested on Ubuntu.
+
     apt-get update
     apt install git  -y
     apt install curl -y
