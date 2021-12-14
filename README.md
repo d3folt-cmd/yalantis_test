@@ -26,6 +26,10 @@
     ```bash
     pip3 install -r requirements.txt
     ```
+* Create db
+    ```
+    python3 create_db/create.py
+    ```
 * Run app.py script:  
     ```bash
     python3 app.py
