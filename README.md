@@ -9,7 +9,7 @@
     apt-get update
     apt install git  -y
     apt install curl -y
-    apt-get install -yq python3-pip
+    apt-get install -y python3-pip
     ```
 * Goto download folder
     ```
