@@ -30,3 +30,7 @@
     ```bash
     python3 app.py
     ```
+* Run test script:
+    ```
+    python3 test.py
+    ```
